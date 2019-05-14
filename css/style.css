@@ -37,6 +37,21 @@ body{
     padding-bottom: 50px;
 }
 
+#explore-main-section .fa-check{
+    background: #333333;
+    color: #ffffff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#create-main-section .fa-check{
+    background: #ffffff;
+    color: #008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
 
 
 
